@@ -13,7 +13,7 @@ body{
     width: 150px;
     margin: 10px 10px;
     border: 3px solid #009097;
-    padding: 5px;
+    padding: 10px;
     background-color:#A8F0F0; 
    
 }
@@ -24,6 +24,7 @@ body{
 .journal-meta{
     text-align: end;
     background-color: #A8F0F0;
+    padding: 10px;
 }
 .journal-title{
   font-size:  14pt;
@@ -36,6 +37,7 @@ body{
     background-color: #E8FBFB;
     overflow: auto;
     margin: 10px auto;
+    padding: 10px;
 }
 
 .journal-day p.image-holder{
